@@ -2,11 +2,12 @@
 
 <br>
 
+
 <a href="https://buymeacoffee.com/aitorcs" target="_blank">☕ BUY ME A COFFEE</a>
 
 <br>
 <p align="center">
-  <img src="http://imgfz.com/i/BfAxjUJ.png" alt="display-preview" width="600">
+  <img src="https://github.com/user-attachments/assets/599522cc-d9d7-4405-bf1a-57109e402256" alt="display-preview" width="600">
 </p>
 
 Bjorn is a « Tamagotchi like » sophisticated, autonomous network scanning, vulnerability assessment, and offensive security tool designed to run on a Raspberry Pi equipped with a 2.13-inch e-Paper HAT. This document provides a detailed explanation of the project.
@@ -112,7 +113,6 @@ The static and status folders to /Bjorn/resources/images </p>
 and</p>
 The Viking.TTF file in the path /Bjorn/resources/fonts</p>
 
-<img src="http://imgfz.com/i/6XvjSI3.png" alt="pokebjorn-ssh" width="600">
 
 Reboot the Pokejorn<p>
 <a href="https://buymeacoffee.com/aitorcs" target="_blank">☕ BUY ME A COFFEE FOR MORE AWESOME MODS</a>
